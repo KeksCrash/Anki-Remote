@@ -2,7 +2,7 @@
 # For details & more options, see documentation/AppManifests.md in firmware repo
 
 App(
-    appid="ankiremote",  # Must be unique
+    appid="anki-remote",  # Must be unique
     name="AR",  # Displayed in menus. This is NOT the BLE name.
     apptype=FlipperAppType.EXTERNAL,
     entry_point="anki_remote_app",
